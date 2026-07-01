@@ -36,7 +36,7 @@
     </header>
 
     <main>
-      <img src= “Beuty By Ana.png” alt="Logotipo do Beauty by Ana em tons de azul e rosa, com elementos de maquiagem como pincéis, batom e espelho, representando o universo da beleza."">
+      <img src= 'Gemini_Generated_Image_5e9r1m5e9r1m5e9r (1).png' alt="Logotipo do Beauty by Ana em tons de azul e rosa, com elementos de maquiagem como pincéis, batom e espelho, representando o universo da beleza."">
         <h2>Bem-Vindos ao Beauty by Ana</h2>
         <p>Por: Ana Luiza </p>
         <p>Fala, galera! Sejam muito bem-vindos ao meu espaço!</p>
